@@ -1,0 +1,3 @@
+xhpcg: src/GenerateCoarseProblem.cpp:50: void GenerateCoarseProblem(const SparseMatrix&): Assertion `nxf%2==0' failed.
+xhpcg: src/GenerateCoarseProblem.cpp:50: void GenerateCoarseProblem(const SparseMatrix&): Assertion `nxf%2==0' failed.
+xhpcg: src/GenerateCoarseProblem.cpp:50: void GenerateCoarseProblem(const SparseMatrix&): Assertion `nxf%2==0' failed.
